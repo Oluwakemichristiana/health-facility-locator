@@ -67,16 +67,43 @@ The repository currently contains product requirements and placeholder developme
 
 ## Planned Deliverables
 
-- Functional Google Maps integration
-- Location detection/search
-- Health facility display
-- Facility filtering
-- Facility details
-- Directions
-- Responsive interface
-- Testing and bug fixes
-- Documentation
-- GitHub handover
+The project will be delivered through the following 12 main workstreams:
+
+1. **Google Maps API Configuration**
+   - Securely configure and integrate the Google Maps API.
+
+2. **Location Detection and Search**
+   - Enable current-location detection and manual location search.
+
+3. **Health Facility Map Display**
+   - Display health facilities as interactive markers on the map.
+
+4. **Facility-Type Filtering**
+   - Allow users to filter facilities by category such as hospitals, clinics, laboratories, and pharmacies.
+
+5. **Health Service Filtering**
+   - Allow users to filter facilities based on available health services.
+
+6. **Facility Information Component**
+   - Provide relevant facility information, including name, type, services, contact details, operating information, and location.
+
+7. **Directions Functionality**
+   - Allow users to obtain directions from their selected location to a health facility.
+
+8. **Mobile-Responsive Interface**
+   - Ensure the locator works effectively across mobile, tablet, and desktop screen sizes.
+
+9. **Error and Empty-Result Handling**
+   - Provide appropriate loading, error, permission-denied, API-failure, and no-results states.
+
+10. **Functional and Cross-Browser Testing**
+    - Test the application features and compatibility across relevant browsers and devices.
+
+11. **Testing Bug Resolution**
+    - Identify, document, and resolve bugs discovered during testing.
+
+12. **Documentation and Handover**
+    - Provide technical documentation, setup instructions, API configuration guidance, source-code handover, and final project documentation.
 
 ## Repository Structure
 
